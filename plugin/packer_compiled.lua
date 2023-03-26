@@ -140,6 +140,16 @@ _G.packer_plugins = {
     path = "/Users/connorsheehan/.local/share/nvim/site/pack/packer/start/mason.nvim",
     url = "https://github.com/williamboman/mason.nvim"
   },
+  ["mini.pairs"] = {
+    loaded = true,
+    path = "/Users/connorsheehan/.local/share/nvim/site/pack/packer/start/mini.pairs",
+    url = "https://github.com/echasnovski/mini.pairs"
+  },
+  ["mini.surround"] = {
+    loaded = true,
+    path = "/Users/connorsheehan/.local/share/nvim/site/pack/packer/start/mini.surround",
+    url = "https://github.com/echasnovski/mini.surround"
+  },
   molokai = {
     loaded = true,
     path = "/Users/connorsheehan/.local/share/nvim/site/pack/packer/start/molokai",

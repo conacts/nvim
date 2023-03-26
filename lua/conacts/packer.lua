@@ -16,6 +16,9 @@ use { "tomasr/molokai", as = "molokai" }
 use { "nvim-treesitter/nvim-treesitter", run = ":TSUpdate" }
 use { "nvim-treesitter/playground" }
 
+use { "echasnovski/mini.pairs" }
+use { "echasnovski/mini.surround" }
+
 use {
     "nvim-telescope/telescope.nvim", tag = "0.1.1",
     requires = { {"nvim-lua/plenary.nvim"} }
